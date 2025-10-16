@@ -1,0 +1,17 @@
+/* This is a simple CSS file */
+body {
+    background-color: lightblue;   /* Page background */
+    font-family: Arial, sans-serif; /* Font style */
+    text-align: center;             /* Center the text */
+}
+
+h1 {
+    color: darkblue;               /* Heading color */
+}
+
+p {
+    color: white;                  /* Paragraph text color */
+    background-color: navy;        /* Paragraph background */
+    padding: 10px;                 /* Space inside the box */
+    border-radius: 8px;            /* Rounded corners */
+}
